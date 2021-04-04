@@ -38,8 +38,7 @@ Desenvolver um jogo em 2D utilizando os  principais comandos  de Java Script.
 
 - HTML5
 - CSS3
-- Flexbox
-- CSS Grid
+- JAVASCRIPT
 - Mobile- first
 - Bootstrap v5.0.0-beta3
 
